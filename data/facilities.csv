@@ -1,0 +1,13 @@
+facility_id,name,sector,facility_type,criticality,lat,lon,supply_node,backup_node
+NTH-01,Power Plant North Alpha,North Sector,Power Generation,5,17.58,42.78,Substation_North,Substation_West
+NTH-02,Desalination Plant North,North Sector,Water Supply,5,17.64,43.02,Substation_North,Substation_East
+NTH-03,Comms Relay North,North Sector,Communications,3,17.53,43.18,Substation_North,
+STH-01,Power Plant South Bravo,South Sector,Power Generation,5,17.12,42.62,Substation_South,Substation_West
+STH-02,Logistics Depot South,South Sector,Logistics,3,17.16,42.95,Substation_South,
+STH-03,Comms Relay South,South Sector,Communications,3,17.08,43.08,Substation_South,
+EST-01,Substation East,East Sector,Power Distribution,4,17.3,43.16,Substation_East,Substation_North
+EST-02,Water Treatment East,East Sector,Water Supply,4,17.42,43.3,Substation_East,Substation_South
+EST-03,Forward Operating Base East,East Sector,Military,5,17.24,43.33,Substation_East,Substation_South
+WST-01,Substation West,West Sector,Power Distribution,4,17.33,42.55,Substation_West,Substation_South
+WST-02,Fuel Storage West,West Sector,Fuel Storage,4,17.24,42.45,Substation_West,Substation_North
+WST-03,Radar Station West,West Sector,Sensor Site,4,17.46,42.62,Substation_West,Substation_North

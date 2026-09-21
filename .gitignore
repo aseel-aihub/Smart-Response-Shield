@@ -1,0 +1,37 @@
+# Virtual environments — never commit these.
+# The original archive shipped a 676 MB venv/ directory, which is larger than
+# the entire rest of the project by four orders of magnitude and is not
+# portable between machines or Python versions.
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Trained model artefacts — regenerate with scripts/train_model.py
+models/*.joblib
+models/*.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
