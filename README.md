@@ -7,7 +7,7 @@ Topic area: *Artificial Intelligence — Intelligent Support Systems*.
 
 ---
 
-## ⚠️ Scope and data provenance
+## Scope and data provenance
 
 This project is an **academic simulation built entirely on synthetic data**.
 
