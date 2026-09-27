@@ -2,7 +2,7 @@
 
 **AI-driven predictive impact assessment and self-healing infrastructure — a simulation.**
 
-Submitted to the Prince Sultan Defense Studies & Research Center (PSDSARC)  project programme.
+Submitted to the Prince Sultan Defense Studies & Research Center (PSDSARC) programme.
 Topic area: *Artificial Intelligence — Intelligent Support Systems*.
 
 ---
