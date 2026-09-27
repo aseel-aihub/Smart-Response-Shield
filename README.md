@@ -2,7 +2,6 @@
 
 **AI-driven predictive impact assessment and self-healing infrastructure — a simulation.**
 
-Graduation (Senior) Project · Information Systems
 Submitted to the Prince Sultan Defense Studies & Research Center (PSDSARC) graduation project programme.
 Topic area: *Artificial Intelligence — Intelligent Support Systems*.
 
