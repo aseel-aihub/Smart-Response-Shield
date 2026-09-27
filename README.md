@@ -1,4 +1,4 @@
-# 🛡️ Smart Response Shield
+# Smart Response Shield
 
 **AI-driven predictive impact assessment and self-healing infrastructure — a simulation.**
 
